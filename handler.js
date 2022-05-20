@@ -1150,7 +1150,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/Lexxy24/KaguraMD'
                                 }
                             }, {
                                 callButton: {
@@ -1189,7 +1189,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/Lexxy24/KaguraMD'
                                 }
                             }, {
                                 callButton: {
@@ -3011,7 +3011,7 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/Lexxy24/KaguraMD'
                                 }
                             }, {
                                 callButton: {
