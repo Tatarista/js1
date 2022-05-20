@@ -2827,7 +2827,7 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
  ꔷ #ytsearch [query]
  ꔷ #ringtone [query]
  ꔷ #stalk [option] [query]
-
+──────────────
  ❏ *Random Menu*
  ꔷ #coffe
  ꔷ #quotesanime
