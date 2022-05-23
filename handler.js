@@ -543,7 +543,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                kagura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6288292024190 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/Cakhaho\n⭔ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m })
+                kagura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 10k Per Group Via Pulsa 1 Month\n & 5k 1 Mingggu ⭔ 25k via pulsa Permanen\n Payment can be via pulsa\n For more details, you can chat with the owner\n https://wa.me/621256023873 (Owner)\n Donate For Me : \n⭔ https://wa.me/621256023873 (Owner) }, { quoted: m })
             }
             break
             case 'sc': {
@@ -1457,7 +1457,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: ' +62 822-7991-5237'
+                                    phoneNumber: ' +62 812-5602-3873'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1496,7 +1496,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: ' +62 822-7991-5237'
+                                    phoneNumber: ' +62 812-5602-3873'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3067,7 +3067,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 ──────────────
   _> *INFO BOT*_
-👑 Creator : *Lexxy Official*
+👑 Creator : *Riss Botz*
 👤 Owner : *${ownername}*
 🤖 Bot Name : *${botname}*
 📑 Tanggal : *${tanggal}*
@@ -3349,7 +3349,7 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 822-7991-5237'
+                                    phoneNumber: '+62 812-5602-3873'
                                 }
                             },{
                                 quickReplyButton: {
